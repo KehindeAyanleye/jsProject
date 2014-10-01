@@ -1,3 +1,4 @@
+ //launch js's jquery
 $(document).ready(function() {
     $(document).keydown(function(key) {
         switch(parseInt(key.which,10)) {
