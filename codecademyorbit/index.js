@@ -7,3 +7,9 @@ $(document).ready(function(){
         });
     
 });
+
+/*$(document).ready(function(){
+    $('div').click(function(){
+        $(this).effect('slide', {times:3},500);
+        });
+    });*/
